@@ -1,6 +1,10 @@
 # To Run the Code
 
-## Clone the repo -> npm i -> npm start
+<ul>
+<li>Clone the repo </li>
+<li>npm i</li>
+<li>npm start</li>
+</ul>
 
 ## To Change the website links please change the sheet below
 
